@@ -17,8 +17,10 @@ LCD 20 * 4 I2C
 ![LCD](https://user-images.githubusercontent.com/17608995/100624810-2c21e900-3367-11eb-86a4-42b698d1ba1a.PNG)
 
 SCL - A5
+
 SDA - A4
 
 VCC- 5V
+
 GND
 
